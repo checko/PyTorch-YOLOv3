@@ -1,3 +1,6 @@
+# Modification on branch nopoetry
+run with python, no need to use poetry.
+
 # PyTorch YOLO
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
 
